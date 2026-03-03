@@ -1,0 +1,4 @@
+
+__pycache__/
+*.pyc
+/data/reporte_clientes.csv
